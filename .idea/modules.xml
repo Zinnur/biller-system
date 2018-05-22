@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/biller-jpa/biller-jpa.iml" filepath="$PROJECT_DIR$/biller-jpa/biller-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biller-model/biller-model.iml" filepath="$PROJECT_DIR$/biller-model/biller-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biller-system.iml" filepath="$PROJECT_DIR$/biller-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biller-web/biller-web.iml" filepath="$PROJECT_DIR$/biller-web/biller-web.iml" />
+    </modules>
+  </component>
+</project>
